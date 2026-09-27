@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-26 22:21:16,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+2026-09-27 23:15:24,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 
 📺央视频道,#genre#
 
@@ -44,7 +44,6 @@ Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
 经典动漫,http://luobo.bkpcp.top/yy/24180320
-经典动漫,https://www.goodiptv.club/yy/22777075
 漫画解说,http://luobo.bkpcp.top/yy/1382735568
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
@@ -56,11 +55,11 @@ Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 笑傲江湖,https://live.metshop.top/huya/23865142
 天龙八部,https://live.metshop.top/huya/23903123
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
-三国演义,https://live.metshop.top/huya/11602081
 三国演义,https://live.ottiptv.cc/huya/11602081
+三国演义,https://live.metshop.top/huya/11602081
 水浒传,http://live.ottiptv.cc/huya/26355860
 新白娘子传奇,http://luobo.bkpcp.top/yy/1354490667
 封神榜,https://live.metshop.top/huya/29465849
 上海滩,http://luobo.bkpcp.top/yy/1382745184
-射雕英雄传,https://live.metshop.top/huya/23824164
 射雕英雄传,https://live.ottiptv.cc/huya/23824164
+射雕英雄传,https://live.metshop.top/huya/23824164
